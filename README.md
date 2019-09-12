@@ -489,17 +489,24 @@
 
 【其他学习资料网址】
 https://www.bilibili.com/video/av50544433?from=search&seid=15138799477042920278  千峰教育
+
 https://www.examcoo.com/index/ku  考试
+
 https://down.52pojie.cn/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E8%AE%BA%E5%9D%9B%E5%AE%98%E6%96%B9%E5%85%A5%E9%97%A8%E6%95%99%E5%AD%A6%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E6%9C%9F/  
 吾爱破解 脱壳教程
 
-https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md 
 http://smsow.zhenzikj.com/doc/python_sdk_doc.html   python发送短信文档
+
 http://c.biancheng.net/view/2682.html  测试
 
 https://jingyan.baidu.com/article/2c8c281d810c830008252a06.html  jdk环境搭建
+
 http://mirror.bit.edu.cn/apache/hadoop/common/hadoop-3.2.0/    hadoop下载地址
+
 https://blog.csdn.net/yhtppp/article/details/80852856   hadoop搭建  
+
 https://blog.csdn.net/yhtppp/article/details/80960014  hadoop分布式搭建
+
 https://shuwoom.com/?p=1452   决策树
+
 https://blog.csdn.net/theonegis/article/details/79890407   香农熵
