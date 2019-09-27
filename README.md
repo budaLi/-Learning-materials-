@@ -1,10 +1,6 @@
 
 【1】Spring boot微服务开发天气预报系统视频教程	https://pan.baidu.com/s/1joz7flyztCq8oklBlsz8dQ	提取密码：cpz7
 
-【2】2018年最新尚硅谷大数据从零基础入门到精通全套教程下载	https://pan.baidu.com/s/1em6u-xmNqWpHf0GXQcQDEQ	提取密码：hnyj
-
-【3】北大青鸟Java软件工程师内部授课视频教程下载	https://pan.baidu.com/s/1ipwifIW1oa1PpK8mBUm25w	提取密码：9r7s
-
 【4】【尚学堂·百战程序员】JAVA300集大型视频教程2018版发布	https://pan.baidu.com/s/1Bqy4mWSD1idd6JmIzS9ZLg	提取密码：llg2
 
 【5】Vue2.5开发去旅游网站App 从零基础入门到实战项目	https://pan.baidu.com/s/1DYCoIw_b893KXGkkYt_92Q	提取密码：bgoy
@@ -13,9 +9,6 @@
 
 【7】最新BAT面试真题讲解，想去大厂的别错过	https://pan.baidu.com/s/1ejf2Eh8ZA-T1bWbuT6gw0A	提取密码：mist
 
-【8】 PHP7.2+Swoole入门到开发高性能直播网站	https://pan.baidu.com/s/16jzmOol32tIYAmvDLZMD-A	提取密码：orzd
-
-【9】 2018年1月份最新JavaEE（基于Java1.8）零基础入门到精通视频教程下载	https://pan.baidu.com/s/1ZR74b45A5pG8_NnIL4kVQg	提取密码：nu1h
 
 【10】Python3异步IO并发编程高级进阶视频教程下载	https://pan.baidu.com/s/1jiRwD5MNPmAKF98nXYzmKg	提取密码：hct4
 
@@ -37,15 +30,9 @@
 
 【19】尚硅谷最新Springboot从入门到精通视频教程【价值798元】下载	https://pan.baidu.com/s/1D6hYdyi4ti2zpnKHVWWbEg	提取密码：glov
 
-
-
 【20】Netty实战高性能分布式RPC视频教程下载	https://pan.baidu.com/s/1sDHh_g624MO08MTFIrwEDw	提取密码：mwa6	资料同步更新群:740676783
 
-【21】最新Python3入门机器学习与算法视频教程+代码	https://pan.baidu.com/s/1X8Wp-iUvCNXd1eQZ-a9new	提取密码：p6wl
-
 【22】2018年最新尚学堂Vue2全套学习视频教程下载	https://pan.baidu.com/s/147NvAV-Qse90xvTYDvHBcg	提取密码：wpfg
-
-【23】最新Python3数据分析与挖掘建模实战视频教程下载	https://pan.baidu.com/s/1pQLMfMzFSAVACammlqjj1A	提取密码：dcd5
 
 【24】最新2018疯狂Spring Cloud微服务架构实战视频教程	https://pan.baidu.com/s/1jgC0lagtMG7tArATrAAHXg	提取密码：10kf
 
@@ -510,3 +497,6 @@ https://blog.csdn.net/yhtppp/article/details/80960014  hadoop分布式搭建
 https://shuwoom.com/?p=1452   决策树
 
 https://blog.csdn.net/theonegis/article/details/79890407   香农熵
+
+剔除部分无效链接~~~~~~~~
+请我吃包辣条可好？
