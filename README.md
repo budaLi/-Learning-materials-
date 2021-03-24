@@ -1,4 +1,12 @@
- 人生不如意事常八九  共勉
+ 人生不如意事常八九  共勉 
+ 
+## 2021-3-24 更新 
+自从pandownload祭天后，很久没有刻意去搜集资源，也貌似没有了好的渠道，看到想学习的课,囊中羞涩也舍不得买，故建个微信群，以后有好的资源大家可以拼团买，不是卖课，不是卖课，不是卖课....
+
+
+![image](https://github.com/budaLi/-Learning-materials-/blob/master/1616572815.jpg)
+
+
 
 【0】Springboot微服务开发天气预报系统视频教程 https://pan.baidu.com/s/1joz7flyztCq8oklBlsz8dQ 提取密码：cpz7
 
