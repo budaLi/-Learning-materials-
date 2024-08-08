@@ -1,6 +1,5 @@
 最近搜罗到一些近两年的各大机构的资料，质量层次不齐，有需要的朋友请私信我 v 15735656005，非无偿
 
-D:\software\anaconda3\envs\pytorch_python-3-7\python.exe D:\python_code\Handwriting_recognition\tools\1.py 
 0 SpringCloudAlibaba高并发仿斗鱼直播平台实战 | 更新完结
 
 2 零声教育-新版Linux C C++高级全栈开发（后端-游戏-嵌入式-高性能网络-存储-基础架构）
@@ -419,6 +418,4 @@ D:\software\anaconda3\envs\pytorch_python-3-7\python.exe D:\python_code\Handwrit
 
 416 咕泡学院-P6 ElasticStack高级开发与架构（实战班）| 完结
 
-
-Process finished with exit code 0
 
